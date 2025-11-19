@@ -116,7 +116,7 @@ h1{
 }
 
 .images{
-    width:1270px;
+    width:100%;
     height:220px;
     margin-top:10px;
     background-color: #ffffff;
@@ -162,6 +162,7 @@ h1{
     color: #ffffff;
     font-family: sans-serif;
  }
+
 
 
 
