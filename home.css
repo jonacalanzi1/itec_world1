@@ -100,7 +100,7 @@ h1{
     
 }
 .images1{
-    width:1270px;
+    width:100%x;
     height:220px;
     margin-top:10px;
     background-color: #000000;
@@ -162,6 +162,7 @@ h1{
     color: #ffffff;
     font-family: sans-serif;
  }
+
 
 
 
